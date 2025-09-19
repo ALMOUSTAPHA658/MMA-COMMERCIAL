@@ -139,7 +139,7 @@ buyNowButton.addEventListener('click',()=>{
     updateCartCount(0);
 
     updateTotalPrice();
-    window.location.href="livraison.php"
+    window.location.href="livraison.html"
 })
 
 const inputs = document.querySelectorAll(".input1");
@@ -164,5 +164,6 @@ function ouvrirWhatsApp() {
 }
 
     
+
 
 
